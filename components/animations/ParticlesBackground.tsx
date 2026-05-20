@@ -13,7 +13,6 @@ export default function ParticlesBackground() {
   return (
     <Particles
       id="tsparticles"
-      init={particlesInit}
       options={{
         fullScreen: {
           enable: true,
